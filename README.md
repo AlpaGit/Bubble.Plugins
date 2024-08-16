@@ -1,6 +1,6 @@
 # Usage
-F1 > Dump the protocol inside the game directory
-F2 > Activate SOS & Log level to Debug
+- F1 > Dump the protocol inside the game directory
+- F2 > Activate SOS & Log level to Debug
 
 
 # Installation 
